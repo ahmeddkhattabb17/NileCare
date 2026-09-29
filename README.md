@@ -1,4 +1,4 @@
-# NileCare 🏥
+# NileCare
 
 **Healthcare made simpler.**
 
@@ -10,7 +10,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 
 ## Core Features
 
-### 🏠 Healthcare Discovery
+### Healthcare Discovery
 - Landing page
 - Medical departments
 - Featured doctors
@@ -20,7 +20,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Search by location
 - Doctor availability indicators
 
-### 🔎 Doctor Search & Filtering
+### Doctor Search & Filtering
 - Specialty
 - Location
 - Availability
@@ -33,7 +33,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Multiple filters
 - Clear/reset filters
 
-### 👨‍⚕️ Doctor Profiles
+### Doctor Profiles
 - Doctor photo
 - Name and specialty
 - Biography
@@ -47,7 +47,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Reviews and ratings
 - Book appointment
 
-### 📅 Appointment Booking
+### Appointment Booking
 - Select doctor
 - Select date
 - Select available time
@@ -59,7 +59,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Appointment status
 - Appointment history
 
-### 🕐 Doctor Availability
+### Doctor Availability
 - Working days
 - Working hours
 - Break periods
@@ -68,7 +68,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Block unavailable dates
 - Prevent double booking
 
-### 👤 Patient Accounts
+### Patient Accounts
 - Sign up / sign in
 - Secure authentication
 - Profile management
@@ -79,20 +79,20 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Reviews
 - Account settings
 
-### ❤️ Favorites
+### Favorites
 - Save doctors
 - Remove doctors
 - Dedicated favorites page
 - Persistent favorites for authenticated users
 
-### ⭐ Reviews & Ratings
+### Reviews & Ratings
 - Rate completed appointments
 - Write reviews
 - Display average rating
 - Doctor review list
 - Review validation
 
-### 👨‍⚕️ Doctor Dashboard
+### Doctor Dashboard
 - Dashboard overview
 - Today's appointments
 - Upcoming appointments
@@ -105,7 +105,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Manage reviews
 - Appointment statistics
 
-### 🔔 Notifications
+### Notifications
 - Appointment confirmations
 - Appointment reminders
 - Rescheduling updates
@@ -113,7 +113,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Doctor responses
 - New notifications
 
-### 🔐 Roles & Security
+### Roles & Security
 - Patient role
 - Doctor role
 - Admin role
@@ -123,7 +123,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Input validation
 - Secure authentication
 
-### 🛡️ Admin Management
+### Admin Management
 - Manage users
 - Manage doctors
 - Manage departments
@@ -132,7 +132,7 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Manage platform settings
 - Basic platform analytics
 
-### ✨ UX
+### UX
 - Responsive design
 - Mobile-friendly booking flow
 - Skeleton loaders
@@ -144,7 +144,6 @@ The project focuses on realistic healthcare interface workflows, including docto
 - Clear appointment status indicators
 
 ## Frontend Stack
-
 - Next.js
 - TypeScript
 - React
@@ -157,4 +156,4 @@ NileCare is designed to demonstrate how a real healthcare product can be structu
 
 ## Status
 
-🚧 In development
+In development
