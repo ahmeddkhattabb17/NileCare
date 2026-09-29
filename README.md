@@ -2,9 +2,9 @@
 
 **Healthcare made simpler.**
 
-NileCare is a modern full-stack healthcare and appointment platform designed to connect patients with doctors and make appointment management simple and organized.
+NileCare is a modern healthcare and appointment frontend designed to connect patients with doctors and make appointment management simple and organized.
 
-The project focuses on realistic healthcare workflows, including doctor discovery, availability management, appointment booking, patient profiles, reviews, notifications, and a dedicated doctor dashboard.
+The project focuses on realistic healthcare interface workflows, including doctor discovery, availability management, appointment booking, patient profiles, reviews, notifications, and a dedicated doctor dashboard.
 
 > NileCare is a fictional portfolio project and is not affiliated with a real healthcare provider.
 
@@ -143,19 +143,17 @@ The project focuses on realistic healthcare workflows, including doctor discover
 - Accessible forms
 - Clear appointment status indicators
 
-## Planned Stack
+## Frontend Stack
 
 - Next.js
 - TypeScript
-- PostgreSQL
-- Prisma or Drizzle ORM
-- Authentication
+- React
 - Tailwind CSS
-- API routes / Server Actions
+- Responsive Web Design
 
 ## Project Goal
 
-NileCare is designed to demonstrate how a real healthcare product can be structured from both the frontend and backend sides, with particular attention to scheduling logic, role-based workflows, data validation, and user experience.
+NileCare is designed to demonstrate how a real healthcare product can be structured as a frontend product experience, with particular attention to scheduling logic, role-based workflows, data validation, and user experience.
 
 ## Status
 
